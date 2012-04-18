@@ -1,0 +1,2 @@
+#!/bin/bash
+java -Xmn256M -Xms1024M -Xmx1024M -classpath .:./jars/jna.jar:./jars/freenect-jna.jar -d64 FingerTrackerApp

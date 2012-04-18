@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -classpath .:./jars/freenect-jna.jar:./KinectFrameGrabber/*.java *.java
